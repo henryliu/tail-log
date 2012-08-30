@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = TailLog::VERSION
   s.authors     = ["Henry"]
   s.email       = ["henry@23games.com"]
-  s.homepage    = "http//www.23games.com"
-  s.summary     = "TODO: Summary of TailLog."
-  s.description = "TODO: Description of TailLog."
+  s.homepage    = "http://www.23games.com"
+  s.summary     = "Shows the rails logs in the browser at /logs."
+  s.description = "Shows the rails logs in the browser at /logs."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
