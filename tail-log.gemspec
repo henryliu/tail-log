@@ -7,9 +7,9 @@ require "tail-log/version"
 Gem::Specification.new do |s|
   s.name        = "tail-log"
   s.version     = TailLog::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
+  s.authors     = ["Henry"]
+  s.email       = ["henry@23games.com"]
+  s.homepage    = "http//www.23games.com"
   s.summary     = "TODO: Summary of TailLog."
   s.description = "TODO: Description of TailLog."
 
